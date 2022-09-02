@@ -1,5 +1,8 @@
 # Rotating-image-gallery
 
+https://nsevindi87.github.io/Rotating-image-gallery/
+
+
 HEDEF: Fotograflarin 3 boyutlu dönmesini saglayan bir slyat olusturma
 
 Sürec:
